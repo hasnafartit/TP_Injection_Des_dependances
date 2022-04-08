@@ -8,7 +8,12 @@ Et on a voir l'injection des dépendances par instanciation statique (ici si on 
 ![image](https://user-images.githubusercontent.com/84719124/162339889-13977519-28e2-4227-91e6-52fc14f111bf.png)
 
 
+
 ![image](https://user-images.githubusercontent.com/84719124/162339912-eac751e1-845a-489f-be94-2de41b54148e.png)
 
-Et on a voir l'injection des dépendances par instanciation dynamique
+
+
+Et on a voir l'injection des dépendances par instanciation dynamique ( ici on a créé un fichier text de configuration ou on a declaré les non des classes qu'on a utilisé dans l'application et  si on veut avoir des extension on doit seulement changer les noms des classes dans le fichier de configuration sans toucher le code source)
+
+
 

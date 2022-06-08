@@ -1,6 +1,6 @@
 # TP_Injection_Des_dependances
 
-Dans Cette partie on a fait un petite application pour bien comprendre la notion "couplage faible"(= l'application doit etre fermé a la modification et ouvert à l'extension).
+Dans Cette partie on a fait une petite application pour bien comprendre la notion "couplage faible"(= l'application doit etre fermé a la modification et ouvert à l'extension).
 
 
 Tout d'abord on a crée des insterfaces et des implémentations de ces interfaces.
